@@ -22,6 +22,6 @@ def parse_response(response):
 
 
 def hidden(auth):
-    address = urljoin(API, '/race/h1dden')
+    address = urljoin(API, '/race/champion')
     res = requests.get(address, headers=dict(Authorization='Bearer {}'.format(auth)))
     return parse_response(res)
