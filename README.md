@@ -3,7 +3,7 @@ This Repository is designed to challenge your `git` skills a little.
 
 ## History
 There was once was a legendary code that granted discount codes and sometimes more...
-This code has been shattered into a maze waiting
+This code has been shattered into a maze waiting to be one again!!!
 
 An elderly developer told us some prats of its UML:
 * Like most scenarios this code has phone verification
